@@ -1,5 +1,7 @@
 ---
-title: About Me
+layout: page
+title: "About Me"
+permalink: /about/
 ---
 
 ## Welcome to GitHub Pages
