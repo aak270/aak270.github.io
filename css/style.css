@@ -85,6 +85,7 @@ footer .container{
 
 .section{
     display: flex;
+    margin-bottom: 80px;
 }
 .section img{
     width: 280px;
